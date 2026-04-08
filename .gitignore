@@ -1,0 +1,15 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Large media (add specific if needed)
+*.mp4
+*.mov
+*.avi
+
+# Logs
+*.log
+
+# Temp
+*~
